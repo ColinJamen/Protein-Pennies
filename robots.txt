@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ColinJamen.github.io/protein-pennies/sitemap.xml
+
